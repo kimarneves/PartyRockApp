@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PartyRockApp/MainVC.swift"
+            timestampString = "501298879.316503"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MainVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PartyRockApp.MainVC"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimar/iOS/PartyRockTableViews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "501300949.18675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; PartyRockApp.MainVC"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimar/iOS/PartyRockTableViews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "501300949.188112"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PartyRockApp.MainVC&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimar/iOS/PartyRockTableViews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "501300949.189514"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PartyRockApp.MainVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;PartyRockApp.MainVC&gt;"
+                  moduleName = "PartyRockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kimar/iOS/PartyRockTableViews/PartyRockApp/PartyRockApp/MainVC.swift"
+                  timestampString = "501300949.19072"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
